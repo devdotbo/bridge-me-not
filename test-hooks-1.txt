@@ -1,3 +1,0 @@
-This is a test file to verify auto-commit hooks are working.
-Created by Claude Code to test the PostToolUse hook functionality.
-Timestamp: 2025-01-08
