@@ -1,0 +1,1 @@
+Testing if hooks are working after configuration update.
