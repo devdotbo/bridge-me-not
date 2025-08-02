@@ -2,3 +2,5 @@
 .env
 bmn-evm-contracts
 bmn-evm-contracts-v2
+bmn-lightning-setup
+bmn-resolver-setup
