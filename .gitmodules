@@ -1,0 +1,9 @@
+[submodule "bmn-evm-resolver"]
+	path = bmn-evm-resolver
+	url = https://github.com/devdotbo/bmn-evm-resolver.git
+[submodule "bmn-lightning-setup"]
+	path = bmn-lightning-setup
+	url = https://github.com/devdotbo/bmn-lightning-setup.git
+[submodule "bmn-resolver-setup"]
+	path = bmn-resolver-setup
+	url = https://github.com/devdotbo/bmn-resolver-setup.git
