@@ -1,0 +1,1 @@
+Testing hooks with project-specific settings.json
