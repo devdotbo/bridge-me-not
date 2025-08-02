@@ -7,3 +7,12 @@
 [submodule "bmn-resolver-setup"]
 	path = bmn-resolver-setup
 	url = https://github.com/devdotbo/bmn-resolver-setup.git
+[submodule "bmn-evm-indexer"]
+	path = bmn-evm-indexer
+	url = https://github.com/devdotbo/bmn-evm-indexer.git
+[submodule "bmn-evm-contracts"]
+	path = bmn-evm-contracts
+	url = https://github.com/devdotbo/bmn-evm-contracts.git
+[submodule "bmn-evm-contracts-v2"]
+	path = bmn-evm-contracts-v2
+	url = https://github.com/devdotbo/bmn-evm-contracts-v2.git
